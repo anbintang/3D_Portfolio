@@ -29,11 +29,12 @@ const navLinks = [
   ];
   
   const counterItems = [
-    { value: 15, suffix: "+", label: "Years of Experience" },
-    { value: 200, suffix: "+", label: "Satisfied Clients" },
-    { value: 108, suffix: "+", label: "Completed Projects" },
-    { value: 90, suffix: "%", label: "Client Retention Rate" },
+    { value: 1, suffix: "+", label: "Years in Production" },
+    { value: 15, suffix: "+", label: "Features Shipped" },
+    { value: 6, suffix: "+", label: "Modern Web Stacks" },
+    { value: 3, suffix: "", label: "Team-Based Projects" },
   ];
+  
   
   const logoIconsList = [
     {
