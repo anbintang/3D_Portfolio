@@ -58,7 +58,7 @@ const Hero = () => {
                     </div>
                     <p className="text-white-50 md:text-xl relative z-10
                     pointer-events-none">
-                        Hi, I'm Bintang, a fullstack developer based in Jakarta, Indonesia.
+                        Hi, I'm Bintang, a fresh graduate full-stack developer based in Jakarta, Indonesia.
                     </p>
                     <Button 
                     className="md:w-80 md:h-16 w-60 h-12"
